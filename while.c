@@ -1,5 +1,8 @@
 //introduction to while loop//
 
+//made by suma//
+
+
 #include<stdio.h>
 int main()
 {
